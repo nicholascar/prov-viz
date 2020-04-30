@@ -1,0 +1,73 @@
+{
+	"links": [{
+			"source": "pizza",
+			"target": "OWL2SKOS",
+			"value": "1"
+		},
+		{
+			"source": "SKOS entail from OWL",
+			"target": "OWL2SKOS",
+			"value": "1"
+		},
+		{
+			"source": "OWL2SKOS",
+			"target": "SKOS view of OWL",
+			"value": "1.4"
+		},
+		{
+			"source": "SKOS view of OWL",
+			"target": "SKOS entailment",
+			"value": "1"
+		},
+		{
+			"source": "SKOS view of OWL",
+			"target": "PROV",
+			"value": "1"
+		},
+		{
+			"source": "SKOS view of OWL",
+			"target": "SKOS inferences",
+			"value": "1"
+		},
+		{
+			"source": "SKOS view of OWL",
+			"target": "SKOS entailment",
+			"value": "1"
+		},
+		{
+			"source": "SKOS entailment",
+			"target": "Generate PROV graph",
+			"value": "1"
+		},
+		{
+			"source": "Generate PROV graph",
+			"target": "PROV",
+			"value": "1"
+		}
+	],
+	"nodes": [{
+			"name": "SKOS entail from OWL"
+		},
+		{
+			"name": "OWL2SKOS"
+		},
+		{
+			"name": "SKOS view of OWL"
+		},
+		{
+			"name": "SKOS entailment"
+		},
+		{
+			"name": "Generate PROV graph"
+		},
+		{
+			"name": "SKOS inferences"
+		},
+		{
+			"name": "PROV"
+		},
+		{
+			"name": "pizza"
+		}
+	]
+}
